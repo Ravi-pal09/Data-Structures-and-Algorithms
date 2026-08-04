@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fdb022f-b242-4003-b9a7-1c2bccb51cb7" name="Changes" comment="Day01">
+    <list default="true" id="4fdb022f-b242-4003-b9a7-1c2bccb51cb7" name="Changes" comment="Aug02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Armstrong.executor": "Run",
+    "Application.Basic01.executor": "Run",
+    "Application.Basic02.executor": "Run",
     "Application.Level01.Qn02.executor": "Run",
     "Application.Q01.executor": "Run",
     "Application.Qn01.executor": "Run",
@@ -60,6 +63,13 @@
     "Application.Qn07.executor": "Run",
     "Application.Qn08.executor": "Run",
     "Application.Qn09.executor": "Run",
+    "Application.Qn10.executor": "Run",
+    "Application.Qn11.executor": "Run",
+    "Application.Qn12.executor": "Run",
+    "Application.Qn13.executor": "Run",
+    "Application.Qn14.executor": "Run",
+    "Application.Qn15.executor": "Run",
+    "Application.Qn9.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -77,13 +87,13 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Qn09">
-    <configuration name="Qn05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level02.Qn05" />
+  <component name="RunManager" selected="Application.Qn16">
+    <configuration name="Qn12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01prepinsra.java.Qn12" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level02.*" />
+          <option name="PATTERN" value="Day01prepinsra.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Qn06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level02.Qn06" />
+    <configuration name="Qn13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01prepinsra.java.Qn13" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level02.*" />
+          <option name="PATTERN" value="Day01prepinsra.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Qn07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level02.Qn07" />
+    <configuration name="Qn14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01prepinsra.java.Qn14" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level02.*" />
+          <option name="PATTERN" value="Day01prepinsra.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Qn08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level02.Qn08" />
+    <configuration name="Qn15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01prepinsra.java.Qn15" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level02.*" />
+          <option name="PATTERN" value="Day01prepinsra.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Qn09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level02.Qn09" />
+    <configuration name="Qn16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01prepinsra.java.Qn16" />
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level02.*" />
+          <option name="PATTERN" value="Day01prepinsra.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Qn09" />
-        <item itemvalue="Application.Qn08" />
-        <item itemvalue="Application.Qn07" />
-        <item itemvalue="Application.Qn06" />
-        <item itemvalue="Application.Qn05" />
+        <item itemvalue="Application.Qn16" />
+        <item itemvalue="Application.Qn15" />
+        <item itemvalue="Application.Qn14" />
+        <item itemvalue="Application.Qn13" />
+        <item itemvalue="Application.Qn12" />
       </list>
     </recent_temporary>
   </component>
@@ -169,16 +179,78 @@
       <option name="project" value="LOCAL" />
       <updated>1784271898298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day02">
+      <option name="closed" value="true" />
+      <created>1784351781741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1784351781742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day02">
+      <option name="closed" value="true" />
+      <created>1784351839036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784351839036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day02">
+      <option name="closed" value="true" />
+      <created>1785595385165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785595385165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aug02">
+      <option name="closed" value="true" />
+      <created>1785635133067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785635133067</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aug02">
+      <option name="closed" value="true" />
+      <created>1785685938956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1785685938956</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Aug02">
+      <option name="closed" value="true" />
+      <created>1785686420338</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1785686420338</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Lec0 java Program" />
     <MESSAGE value="Day01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day01" />
+    <MESSAGE value="Day02" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Aug02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aug02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
