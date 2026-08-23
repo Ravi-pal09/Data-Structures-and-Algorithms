@@ -27,4 +27,8 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store.idea/workspace.xml
+>>>>>>> b12992c451fef3a3bb1c1cf11ff8e942623364ca
